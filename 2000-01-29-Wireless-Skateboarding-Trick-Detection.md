@@ -4,7 +4,7 @@ title: Wireless Skateboarding Trick Detection
 description: The aim of this project is to create a small electronic device that attaches to the bottom of a skateboard and connects to an Android device or computer to record what tricks are performed by the user.
 date: 2000-01-29 09:00:00
 hero_image: /web/img/Wireless-Skateboarding-Trick-Detection/Hero.png
-image: /web/img/Wireless-Skateboarding-Trick-Detection/Hero.png
+# image /web/img/Wireless-Skateboarding-Trick-Detection/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
