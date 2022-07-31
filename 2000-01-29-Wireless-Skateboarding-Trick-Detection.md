@@ -21,7 +21,7 @@ Conor Patrick
 Ryan Curtis
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Wireless-Skateboarding-Trick-Detection"" >Wireless-Skateboarding-Trick-Detection</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Wireless-Skateboarding-Trick-Detection" >Wireless-Skateboarding-Trick-Detection</a>
 
 ## Photo
 
