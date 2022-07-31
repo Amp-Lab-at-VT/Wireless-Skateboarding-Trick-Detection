@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Conor Patrick
-Ryan Curtis
+author: Conor Patrick, Ryan Curtis
 show_sidebar: false
 ---
 
